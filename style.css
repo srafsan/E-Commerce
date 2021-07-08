@@ -11,3 +11,31 @@
 .price{
     color: #FF316F;
 }
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-image: linear-gradient(to right, orange 0%, yellow 100%);
+}
+.cat2{
+    background-image: linear-gradient(to right, rgb(255, 0, 119) 0%, orchid 100%);
+}
+.cat3{
+    background-image: linear-gradient(to right, rgb(113, 113, 206) 0%, blue 100%);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
