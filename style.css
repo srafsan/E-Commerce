@@ -1,0 +1,13 @@
+.container{
+    margin-bottom: 50px;
+}
+.bg-light-orange{
+    background-color: #fceae8;
+    border: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF316F;
+}
